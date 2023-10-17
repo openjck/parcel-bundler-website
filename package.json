@@ -23,7 +23,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.4",
     "@babel/generator": "^7.12.11",
     "@babel/parser": "^7.12.11",
-    "@babel/traverse": "^7.12.12",
+    "@babel/traverse": "^7.23.2",
     "@parcel/packager-xml": "nightly",
     "@parcel/transformer-sass": "nightly",
     "@parcel/transformer-xml": "nightly",
